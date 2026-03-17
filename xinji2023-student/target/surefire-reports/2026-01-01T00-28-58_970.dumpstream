@@ -1,0 +1,5 @@
+# Created at 2026-01-01T00:28:59.507
+Boot Manifest-JAR contains absolute paths in classpath 'D:\代码\xinji2023-student\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

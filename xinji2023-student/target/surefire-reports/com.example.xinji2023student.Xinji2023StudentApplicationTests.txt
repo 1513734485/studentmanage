@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.xinji2023student.Xinji2023StudentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.6 s - in com.example.xinji2023student.Xinji2023StudentApplicationTests
